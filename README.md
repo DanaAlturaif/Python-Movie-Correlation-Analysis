@@ -33,11 +33,3 @@ The goal is to identify which variables are most strongly associated with movie 
 - Higher audience engagement tends to be associated with higher revenue  
 - Most categorical features have weak direct correlation with revenue  
 
-
-
-## 📌 Future Improvements
-
-- Feature engineering  
-- Genre-based analysis  
-- Regression or prediction models  
-- Time-based trends  
